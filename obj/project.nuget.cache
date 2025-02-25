@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBNzMFQHbZM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arkei\\Desktop\\Dev\\Git\\temp\\TestDataGrid\\TestDataGrid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arkei\\.nuget\\packages\\inkore.ui.wpf\\1.2.8\\inkore.ui.wpf.1.2.8.nupkg.sha512",
+    "C:\\Users\\Arkei\\.nuget\\packages\\inkore.ui.wpf.modern\\0.10.0\\inkore.ui.wpf.modern.0.10.0.nupkg.sha512",
+    "C:\\Users\\Arkei\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
